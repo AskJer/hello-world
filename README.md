@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-This is an exampkle of a change.
+This is an example of a change.
